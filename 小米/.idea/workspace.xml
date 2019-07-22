@@ -10,15 +10,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaomi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2572">
-              <caret line="1767" column="56" selection-start-line="1767" selection-start-column="56" selection-end-line="1767" selection-end-column="56" />
+            <state relative-caret-position="101">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#2;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#3;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -31,17 +28,53 @@
                 <element signature="n#div#5;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#6;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#7;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#0;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#3;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#4;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#5;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#6;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#7;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#8;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#9;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiaomi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="184" column="28" lean-forward="true" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+              <folding>
+                <marker date="1563794070820" expanded="true" signature="2795:2810" ph="..." />
+                <marker date="1563794070820" expanded="true" signature="24904:24918" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomi.css">
+        <entry file="file://$PROJECT_DIR$/../7.16/zuoye/zuoye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="1599" selection-start-line="1599" selection-end-line="1599" />
+            <state relative-caret-position="367">
+              <caret line="316" column="14" selection-start-line="316" selection-start-column="14" selection-end-line="316" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../7.16/zuoye/zuoye.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-196">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -50,43 +83,44 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>jiad</find>
-      <find>xiaomijiadian</find>
-      <find>jiadianhaibao</find>
-      <find>jiang</find>
-      <find>list1</find>
-      <find>liebiao1</find>
-      <find>liebiao2</find>
-      <find>shangb</find>
-      <find>chnangfu</find>
-      <find>liebiao</find>
-      <find>haop</find>
-      <find>main</find>
+      <find>icon-ico</find>
+      <find>b10</find>
+      <find>icon-icondayu</find>
+      <find>gd</find>
+      <find>gongn</find>
+      <find>lianxi</find>
+      <find>xiaog</find>
+      <find>shangal</find>
+      <find>shang</find>
+      <find>xiaochuang</find>
+      <find>all</find>
+      <find>shoujiapp</find>
+      <find>家</find>
       <find>jiadian</find>
-      <find>list2</find>
-      <find>kuang</find>
-      <find>pingjia</find>
-      <find>list</find>
-      <find>vi</find>
-      <find>revi</find>
-      <find>neir</find>
+      <find>erweim</find>
+      <find>list3</find>
+      <find>jiangjia</find>
+      <find>list1</find>
       <find>leixing</find>
-      <find>reping</find>
-      <find>review</find>
-      <find>lei</find>
-      <find>icon</find>
-      <find>video</find>
-      <find>ship</find>
-      <find>yewu</find>
-      <find>手机</find>
-      <find>changfu</find>
+      <find>re</find>
+      <find>erweima</find>
+      <find>erwei</find>
+      <find>gouwuche</find>
+      <find>gw</find>
+      <find>iebiao</find>
+      <find>d1</find>
+      <find>liebiao1</find>
+      <find>shangla</find>
+      <find>gwc</find>
+      <find>t1</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xiaomi.css" />
+        <option value="$PROJECT_DIR$/../2.html" />
         <option value="$PROJECT_DIR$/xiaomi.html" />
+        <option value="$PROJECT_DIR$/xiaomi.css" />
       </list>
     </option>
   </component>
@@ -101,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +146,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,18 +183,19 @@
       <workItem from="1563683002147" duration="210000" />
       <workItem from="1563685477504" duration="16070000" />
       <workItem from="1563705778870" duration="580000" />
+      <workItem from="1563755958984" duration="35082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116063000" />
+    <option name="totallyTimeSpent" value="151145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17627347" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -188,38 +223,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1873" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7.16/zuoye/zuoye.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="503" column="4" selection-start-line="503" selection-start-column="4" selection-end-line="503" selection-end-column="19" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../7.16/zuoye/zuoye.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="175" column="26" lean-forward="true" selection-start-line="175" selection-start-column="26" selection-end-line="175" selection-end-column="26" />
+        <state relative-caret-position="367">
+          <caret line="316" column="14" selection-start-line="316" selection-start-column="14" selection-end-line="316" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomi.css">
+    <entry file="file://$PROJECT_DIR$/../7.16/zuoye/zuoye.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="1599" selection-start-line="1599" selection-end-line="1599" />
+        <state relative-caret-position="-196">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2572">
-          <caret line="1767" column="56" selection-start-line="1767" selection-start-column="56" selection-end-line="1767" selection-end-column="56" />
+        <state relative-caret-position="101">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#2;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#3;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -232,7 +259,32 @@
             <element signature="n#div#5;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#6;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#7;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#5;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#6;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#7;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#8;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#9;n#ul#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="184" column="28" lean-forward="true" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+          <folding>
+            <marker date="1563794070820" expanded="true" signature="2795:2810" ph="..." />
+            <marker date="1563794070820" expanded="true" signature="24904:24918" ph="..." />
           </folding>
         </state>
       </provider>

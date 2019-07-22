@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.site{
+    width:100%;
+    height:32px;
+    background-color:#a9180A ;
+}
+.container{
+    width: 1230px;
+    height:32px;
+    margin: auto;
+}
+.em{
+    width:84px;
+    /*height:16px;*/
+    line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    float: left;
+}
+.denglu{
+    width:65px;
+    float: left;
+    padding:0px 10px 0px 20px;
+    line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
+.zhuce{
+    width:67.2px;
+    padding:0px 10px;
+    line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+    float: left;
+}
+.wangzhandaohang{
+    width:89.73px;
+    padding: 0px 14px 0px 10px;
+    float: right;
+     line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
+.shangjiazhichi{
+    width:74px;
+    padding: 0px 14px 0px 10px;
+    float: right;
+     line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
+.shoujitaobao{
+    width:71.29px;
+    padding: 0px 10px;
+    float: right;
+     line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
+.suxian {
+    width: 0;
+    height: 14px;
+    line-height: 14px;
+    /*vertical-align: top;*/
+    /*position: relative;*/
+    /*top: 6px;*/
+    /*left: 0;*/
+    font-size: 0;
+    border-left: 1px solid #ccc;
+    margin: 9px 2px 0 5px;
+    float: right;
+}
+.shoucangjia{
+    width:62px;
+    padding: 0px 14px 0px 10px;
+    float: right;
+     line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
+.gouwuche{
+    width:94px;
+    padding: 0px 14px 0px 10px;
+    float: right;
+     line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
+.wodetaobao{
+    width:74px;
+    padding: 0px 14px 0px 10px;
+    float: right;
+     line-height: 32px;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+}
